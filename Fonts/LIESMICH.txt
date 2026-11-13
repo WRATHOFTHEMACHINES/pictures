@@ -1,0 +1,17 @@
+Schriften fuer die Webseite Wrath of the Machines (selbst gehostet, statt Google Fonts)
+
+Inhalt (10 Schriftdateien im Format WOFF2, Zeichensatz "latin"):
+  Rajdhani        500, 600, 700
+  Inter           400, 500, 600
+  JetBrains Mono  400, 500, 700
+  VT323           400
+
+Alle vier Schriften stehen unter der SIL Open Font License 1.1 (OFL). Sie duerfen kostenlos
+fuer Webseiten verwendet und weitergegeben werden. Die Lizenztexte liegen als LICENSE-*.txt bei.
+Bitte die LICENSE-Dateien mit hochladen.
+
+Quelle: Fontsource (fontsource.org), Pakete @fontsource/rajdhani, @fontsource/inter,
+@fontsource/jetbrains-mono, @fontsource/vt323. Die Dateien entsprechen dem, was Google Fonts ausliefert.
+
+Hochladen: Ordner "Fonts" mit allen Dateien ins GitHub-Repo "pictures" legen, so dass z. B. dieser Link funktioniert:
+  https://raw.githubusercontent.com/WRATHOFTHEMACHINES/pictures/refs/heads/main/Fonts/inter-latin-400-normal.woff2
